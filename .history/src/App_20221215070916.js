@@ -1,8 +1,8 @@
 import './App.css';
-import Home from './pages/Home';
+import  frm
 function App() {
   return (
-     <Home />
+     
   );
 }
 

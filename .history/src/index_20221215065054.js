@@ -11,6 +11,12 @@ root.render(
   </React.StrictMode>
 );
 
-  
+ import React from 'react'
  
-  
+ function index() {
+   return (
+     <div>index</div>
+   )
+ }
+ 
+ export default index
